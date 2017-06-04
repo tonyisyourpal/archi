@@ -1,0 +1,8 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDS-LVW-HIECA01"
+    id="8f6bf70d">
+  <properties
+      key="Org"
+      value="HIE"/>
+</archimate:Device>

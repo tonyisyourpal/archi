@@ -1,0 +1,11 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LAPVWEISPDB03"
+    id="74a8eee0">
+  <properties
+      key="Org"
+      value="SDS"/>
+  <properties
+      key="Org"
+      value="SE"/>
+</archimate:Device>
